@@ -10,7 +10,7 @@
 
 ## About Me
 👨🏽‍💻 Roy Chen,
-Third year Computer Science students at H.I.T.,
+Third year Computer Science students at H.I.T.<br>
 I really like Python,Web deblop and I have a passion for experimenting with new things and interesting technologies.
 
 
